@@ -217,7 +217,7 @@ footer {
 .project .btn {
   margin-top: 20px;
 }
-/* KONTAINER TOMBOL BACK HOME */
+/* TOMBOL BACK HOME */
 .back-home-container {
   text-align: center;
   margin: 40px 0; /* spasi atas & bawah tombol */
@@ -226,7 +226,7 @@ footer {
 /* tombol */
 .back-home {
   display: inline-block;
-  margin: 0; /* margin internal diatur di container */
+  margin: 0;
 }
 .explore-btn {
   display: inline-block;
